@@ -1,0 +1,89 @@
+{
+  "sysAppData": {
+    "editions": {
+      "sessionInitConfig": "R1.Init.Session",
+      "hasSplashScreen": "false",
+      "canSwitchEdition": "true",
+      "activationConfig": {
+        "title": "Plex-Earth Pro for Virto",
+        "header": "Plex-Earth Pro for Virto",
+        "icon": "[$URL_GLOBAL_CDN]/assets/app/logo.png",
+        "canTrial": "false",
+        "canActivateCode": "true",
+        "activateCodeHeader": "Activate Your Subscription",
+        "activateCodeText": "STAGING ENVIRONMENT: FOR DEVELOPMENT AND TESTING ONLY.",
+        "messageActivationRequiredTitle": "Activation Required",
+        "messageActivationRequiredText": "To get started with Plex-Earth Pro for Virto, you need to activate it on this computer.<LineBreak/><LineBreak/>Please proceed with activation now.",
+        "messageActivationRequiredAcceptButtonText": "Yes, Proceed Now",
+        "messageActivationRequiredCancelButtonText": "Not Now",
+        "messageCodeSuccessfullyActivatedTitle": "Plex-Earth Pro for Virto Activated",
+        "messageCodeSuccessfullyActivatedText": "Your subscription has been activated successfully!<LineBreak/><LineBreak/>You now have access to all the features of Plex-Earth Pro. Enjoy designing with premium tools and data.",
+        "messageCodeSuccessfullyActivatedButtonText": "Finish",
+        "messageUnhandledErrorText": "Please contact our Support Team at <Hyperlink NavigateUri='[$EMAIL_SUPPORT]'>support@plexscape.com</Hyperlink>",
+        "onGotoServicePlans": "https://virto.solar/vs-cad-plugin/"
+      }
+    },
+    "cui": {
+      "isAvailable": "true",
+      "mainRbnTabId": "ID_TAB_PXEARTH",
+      "ribbonTabs": {
+        "ID_TAB_PXEARTH": {
+          "name": "Plex-Earth Pro for Virto",
+          "panels": {
+            "PXID_PANEL_SESSION": {
+              "isVisible": "true",
+              "isEnabled": "true"
+            },
+            "PXID_PANEL_CONTEXTUAL_DATA": {
+              "isVisible": "false",
+              "isEnabled": "false"
+            },
+            "PXID_PANEL_RASTER_TOOLS": {
+              "isVisible": "false",
+              "isEnabled": "false"
+            },
+            "PXID_PANEL_GE": {
+              "isVisible": "false",
+              "isEnabled": "false"
+            },
+            "PXID_PANEL_SERVICE_NOSESS": {
+              "isVisible": "false",
+              "isEnabled": "true"
+            }
+          }
+        }
+      }
+    }
+  },
+  "sysVars": {},
+  "sysStrings": {},
+  "sysConstants": {
+    "[$URL_GLOBAL_CDN]": "https://pe25-v-app-cdn.plexearth360.com",
+    "[$URL_ROOT_CDN]": "[$.]/cdn",
+    "[$URL_ROOT_GOTO]": "https://goto.plexearth.com",
+    "[$URL_PAGE_GOTO_PLUGIN]": "[$URL_ROOT_GOTO]/[$PROD_REF]/plugin",
+    "[$URL_PAGE_HELP]": "[$URL_PAGE_GOTO_PLUGIN]/help",
+    "[$URL_PAGE_WHATSNEW]": "[$URL_PAGE_GOTO_PLUGIN]/whatsnew",
+    "[$URL_PAGE_ADDCREDITS]": "[$URL_PAGE_GOTO_PLUGIN]/addcredits",
+    "[$URL_PAGE_DOWNLOAD]": "[$URL_PAGE_GOTO_PLUGIN]/download",
+    "[$URL_PAGE_WELCOME_LEARNMORE]": "[$URL_PAGE_GOTO_PLUGIN]/welcome",
+    "[$URL_PAGE_PRICING]": "[$URL_PAGE_GOTO_PLUGIN]/pricing",
+    "[$URL_PAGE_UPGRADE]": "[$URL_PAGE_GOTO_PLUGIN]/upgrade",
+    "[$URL_PAGE_CONTACT_SALES]": "[$URL_PAGE_GOTO_PLUGIN]/sales",
+    "[$URL_PAGE_CONTACT_SUPPORT]": "[$URL_PAGE_GOTO_PLUGIN]/support",
+    "[$URL_PRODUCT]": "[$URL_PAGE_GOTO_PLUGIN]/website",
+    "[$EMAIL_SUPPORT]": "mailto:support@plexscape.com",
+    "[$PROD_NAME]": "Plex-Earth Pro for Virto",
+    "[$PROD_VAR]": "X-VIRTO-PRO",
+    "[$PROD_REF]": "pe25-x-virto-pro"
+  },
+  "sysConditionSets": {},
+  "sysSelections": {},
+  "sysCommands": {},
+  "sysCommandLimitSets": {},
+  "sysNamedActions": {},
+  "sysNamedFuncs": {},
+  "sysCampaigns": {},
+  "sysNotifs": {},
+  "sysRefs": {}
+}
