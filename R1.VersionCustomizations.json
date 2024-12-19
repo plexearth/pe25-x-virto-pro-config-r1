@@ -35,7 +35,7 @@
         "Consumables.Images": {
           "name": "Images",
           "title": "Images (Used/Total)",
-          "showInMyAccount": "true",
+          "showInMyAccount": "false",
           "isCredits": "true"
         }
       }
