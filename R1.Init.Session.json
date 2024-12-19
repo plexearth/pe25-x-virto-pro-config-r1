@@ -2,7 +2,7 @@
   "sysAppData": {
     "versionConfigs": {
       "25": {
-        "repoUrl": "https://pe25-x-virto-config-r1.plexearth360.com",
+        "repoUrl": "https://pe25-x-virto-pro-config-r1.plexearth360.com",
         "earthDataUrl": "https://plexdeliverynetwork.blob.core.windows.net/public/csList.v014.2024-09-18.json",
         "file": "R1.VersionCustomizations"
       }
